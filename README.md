@@ -1,6 +1,6 @@
 <h3>Weather Application</h3>
 <h4>Made By:</h4>
-<ul type="square">
+<ul type="square" style="display:flex; gap:5px;">
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Tailwind css</li>
