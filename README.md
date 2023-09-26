@@ -10,4 +10,4 @@
 <b>Live Link: <a href="https://mdaminul1024.github.io/weather-application/" target="_blank">Click Here</a></b>
 
 <br>
-<img src="weather app.jpg" alt="website demo image" style="margin-top:5px;">
+<img src="weather app.jpg" alt="website demo image">
